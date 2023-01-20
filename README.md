@@ -1,4 +1,4 @@
-# :man_teacher: Diego Klabjan, PhD 
+# :man_teacher: Diego Klabjan, Professor
 
 ![image](https://user-images.githubusercontent.com/3346982/213776310-56ded8f1-66ef-4749-910a-525f39a122bd.jpeg)
 
