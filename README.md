@@ -1,6 +1,6 @@
 # :man_teacher: Diego Klabjan, Professor
 
-![image](https://user-images.githubusercontent.com/3346982/213776310-56ded8f1-66ef-4749-910a-525f39a122bd.jpeg)
+![image](https://dynresmanagement.com/uploads/3/5/2/7/35274584/2022-12-12-04-07-37-ch_3me2rhhdpzppmcvs13des1oc-121.jpg)
 
 ## Northwestern University
 Professor, Department of Industrial Engineering and Management Sciences	
