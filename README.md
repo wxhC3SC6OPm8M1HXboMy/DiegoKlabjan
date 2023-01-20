@@ -44,7 +44,7 @@ Founding Director, Center for Deep Learning
 - 2000 First Prize Transportation Science Section Dissertation Prize, INFORMS, Washington DC
 - 1994 Preseren's Award for the Best Undergraduate Thesis, University of Ljubljana, Slovenia
 
-## :books: Select Publications
+## :books: Most Recent Publications
 - S.Lim, **D.Klabjan**, and M.Shapiro. [Feature Acquisition Using Monte Carlo Tree Search](https://dynresmanagement.com/uploads/3/5/2/7/35274584/feature_acquisition_mcts__1_.pdf) (submitted for publication). 2022.
 - A.Cao **D.Klabjan**, and Y.Luo. [Open-Set Recognition of Breast Cancer Treatments](https://dynresmanagement.com/uploads/3/5/2/7/35274584/cancer-open_set-revised_2.pdf) . To appear in *Artificial Intelligence in Medicine*. 2022.
 - Y.Ma and **D.KLabjan**, [Diminishing Batch Normalization](https://dynresmanagement.com/uploads/3/5/2/7/35274584/bn_analysis.pdf) + [appendix](https://dynresmanagement.com/uploads/3/5/2/7/35274584/analysisbn_appendix.pdf). To appear in *IEEE Transactions on Neural Networks and Learning Systems*. 2022.
